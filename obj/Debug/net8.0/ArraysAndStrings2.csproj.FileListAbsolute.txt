@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\C#\ArraysAndStrings2\bin\Debug\net8.0\ArraysAndStrings2.exe
+C:\Users\Hp\Desktop\C#\ArraysAndStrings2\bin\Debug\net8.0\ArraysAndStrings2.deps.json
+C:\Users\Hp\Desktop\C#\ArraysAndStrings2\bin\Debug\net8.0\ArraysAndStrings2.runtimeconfig.json
+C:\Users\Hp\Desktop\C#\ArraysAndStrings2\bin\Debug\net8.0\ArraysAndStrings2.dll
+C:\Users\Hp\Desktop\C#\ArraysAndStrings2\bin\Debug\net8.0\ArraysAndStrings2.pdb
+C:\Users\Hp\Desktop\C#\ArraysAndStrings2\obj\Debug\net8.0\ArraysAndStrings2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\C#\ArraysAndStrings2\obj\Debug\net8.0\ArraysAndStrings2.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\C#\ArraysAndStrings2\obj\Debug\net8.0\ArraysAndStrings2.AssemblyInfo.cs
+C:\Users\Hp\Desktop\C#\ArraysAndStrings2\obj\Debug\net8.0\ArraysAndStrings2.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\C#\ArraysAndStrings2\obj\Debug\net8.0\ArraysAndStrings2.dll
+C:\Users\Hp\Desktop\C#\ArraysAndStrings2\obj\Debug\net8.0\refint\ArraysAndStrings2.dll
+C:\Users\Hp\Desktop\C#\ArraysAndStrings2\obj\Debug\net8.0\ArraysAndStrings2.pdb
+C:\Users\Hp\Desktop\C#\ArraysAndStrings2\obj\Debug\net8.0\ArraysAndStrings2.genruntimeconfig.cache
+C:\Users\Hp\Desktop\C#\ArraysAndStrings2\obj\Debug\net8.0\ref\ArraysAndStrings2.dll
